@@ -26,4 +26,10 @@ section {
   line-height: 100px;
   font-size: 60px;
 }
+
+.game-restart {
+  border: none;
+  background-color: aqua;
+  border-radius: 7px;
+}
 /*# sourceMappingURL=style.css.map */
